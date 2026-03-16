@@ -6,8 +6,6 @@ experience building scalable, SEO-optimized, and AI-driven web applications. Pro
 to deliver end-to-end SDLC solutions, optimize performance, and mentor teams to improve
 coding efficiency and collaboration.
 
-#  About Me:
-🎒 computer science student at St Joseph Engineering college<br>🎨 web developer<br>🐦‍🔥 Active on platforms such as leetcode,gfg[Leetcode(https://leetcode.com/u/premsaldana/)
 
 
 ## 🌐 Socials:
