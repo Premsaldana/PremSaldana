@@ -1,7 +1,7 @@
 ## Hi, I'm Prem
 
 
-Full Stack Developer skilled in C++, JavaScript, React, Node.js, Python, and CI/CD, with
+Full Stack Developer skilled in Angular, SpringBoot, C++, JavaScript, React, Node.js, Python, and CI/CD, with
 experience building scalable, SEO-optimized, and AI-driven web applications. Proven ability
 to deliver end-to-end SDLC solutions, optimize performance, and mentor teams to improve
 coding efficiency and collaboration.
